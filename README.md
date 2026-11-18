@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Deepak Singh 👋
 
-<!--
-**DeepakSingh79/DeepakSingh79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Entry-Level Data Analyst
 
-Here are some ideas to get you started:
+I am an Entry-Level Data Analyst with a background in Computer Applications (BCA) and completed six months of Data Analytics training from Let's Learn Coding Institute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, identifying trends, performing analysis, and creating meaningful business insights through dashboards and reports.
+
+### Technical Skills
+
+- **Languages & Databases:** SQL, MySQL, Python
+- **Python Libraries:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Business Intelligence:** Power BI, DAX, Power Query
+- **Spreadsheets:** Advanced Excel
+- **Statistics:** Statistical Analysis
+
+### Featured Project
+
+- **Pizza Sales Performance & Business Insights:** Analyzed sales data using SQL, Excel, and Power BI to identify revenue trends, order patterns, product performance, and business KPIs.
+
+### Currently Learning
+
+- Tableau
+
+### Career Interests
+
+Data Analyst | MIS Executive | Reporting Analyst | Business Intelligence
+
+### Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/deepak-singh-378418445/
+- **GitHub:** https://github.com/DeepakSingh79
